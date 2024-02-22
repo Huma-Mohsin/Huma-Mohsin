@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Huma-Mohsin
-- 👀 I’m interested in developing site.
+- 👀 I’m interested in developing site and Eager to learn computer languages to build AI models.
 - 🌱 I’m currently learning Certified Cloud Applied Generative Artifical Intelligence.
 - 💞️ I’m looking to collaborate on my projects.
 - 📫 you can contact me @ humaaftab_4@yahoo.com
-- ⚡ Fun fact: ...Eager to learn computer languages to build AI models.
+- ⚡ Fun fact: ...
 
 <!---
 Huma-Mohsin/Huma-Mohsin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

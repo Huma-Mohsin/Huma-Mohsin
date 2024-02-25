@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Certified Cloud Applied Generative Artifical Intelligence.
 - 💞️ I’m looking to collaborate on my projects.
 - 📫 you can contact me @ humaaftab_4@yahoo.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...The only way to do great work is to love what you do.
 
 <!---
 Huma-Mohsin/Huma-Mohsin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
